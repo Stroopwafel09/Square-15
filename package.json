@@ -15,7 +15,7 @@
     "node": "16.x"
   },
   "dependencies": {
-    "@discordjs/builders": "^1.1.0",
+    "@discordjs/builders": "^18",
     "@keyv/mongo": "^1.1.0",
     "dblapi.js": "^2.4.1",
     "discord.js": "^13.9.0",
